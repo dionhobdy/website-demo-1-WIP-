@@ -1,0 +1,11 @@
+.headerHome {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 550px;
+    color: #e0e0e0;
+    opacity: .95;
+
+    margin-top: -300px;
+    margin-left: -100px;
+
+    padding: 25px 50px 75px 100px;
+}

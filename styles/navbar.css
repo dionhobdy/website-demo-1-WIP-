@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    height: 55px;
+    width: 100%;
+    background-color: #131313;
+    overflow: hidden;
+    z-index: 1;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navFont1 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    color: #e0e0e0;
+    opacity: .95;
+    margin-top: -35px;
+
+    padding: 25px 50px 75px 100px;
+}
+
+.navFont2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+    color: #e0e0e0;
+    opacity: .95;
+    margin-top: -20px;
+
+    padding: 25px 10px 75px 50px;
+}
